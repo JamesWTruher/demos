@@ -1,0 +1,17 @@
+*.deb
+*.rpm
+*.exe
+*.csv
+*.clixml
+*.xls
+*.xml
+*.txt
+*.zip
+*-os
+os-*
+*.log
+*.pester-tests.xml
+history
+*.swp
+.DS_Store
+/PowerShellModules/
